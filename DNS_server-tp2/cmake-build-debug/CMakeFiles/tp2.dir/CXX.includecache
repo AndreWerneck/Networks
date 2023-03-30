@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Andre Werneck/Documents/6 Período ECA/Redes/tp2/tp2/server_dns.cpp
+cstdio
+-
+cstdlib
+-
+iostream
+-
+sys/socket.h
+-
+string
+-
+util.h
+/mnt/c/Users/Andre Werneck/Documents/6 Período ECA/Redes/tp2/tp2/util.h
+fstream
+-
+pthread.h
+-
+list
+-
+iterator
+-
+
+/mnt/c/Users/Andre Werneck/Documents/6 Período ECA/Redes/tp2/tp2/util.cpp
+util.h
+/mnt/c/Users/Andre Werneck/Documents/6 Período ECA/Redes/tp2/tp2/util.h
+cinttypes
+-
+cstdio
+-
+cstdlib
+-
+arpa/inet.h
+-
+cstring
+-
+iostream
+-
+list
+-
+iterator
+-
+
+/mnt/c/Users/Andre Werneck/Documents/6 Período ECA/Redes/tp2/tp2/util.h
+cinttypes
+-
+cstdio
+-
+cstdlib
+-
+arpa/inet.h
+-
+cstring
+-
+iostream
+-
+list
+-
+iterator
+-
+

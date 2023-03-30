@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/tp2.dir/server_dns.cpp.o CMakeFiles/tp2.dir/util.cpp.o -o tp2 

@@ -1,0 +1,4 @@
+/mnt/c/Users/Andre Werneck/Desktop/tp1Desk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Andre Werneck/Desktop/tp1Desk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Andre Werneck/Desktop/tp1Desk/cmake-build-debug/CMakeFiles/server.dir
+/mnt/c/Users/Andre Werneck/Desktop/tp1Desk/cmake-build-debug/CMakeFiles/cliente.dir

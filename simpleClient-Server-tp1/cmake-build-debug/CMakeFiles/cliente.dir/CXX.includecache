@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Andre Werneck/Desktop/tp1Desk/cliente.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+iostream
+-
+sys/socket.h
+-
+zconf.h
+-
+sys/types.h
+/mnt/c/Users/Andre Werneck/Desktop/tp1Desk/sys/types.h
+common.h
+/mnt/c/Users/Andre Werneck/Desktop/tp1Desk/common.h
+typeinfo
+-
+
+/mnt/c/Users/Andre Werneck/Desktop/tp1Desk/common.cpp
+cinttypes
+-
+cstdio
+-
+cstdlib
+-
+arpa/inet.h
+-
+cstring
+-
+common.h
+/mnt/c/Users/Andre Werneck/Desktop/tp1Desk/common.h
+iostream
+-
+
+/mnt/c/Users/Andre Werneck/Desktop/tp1Desk/common.h
+cinttypes
+-
+cstdio
+-
+cstdlib
+-
+arpa/inet.h
+-
+cstring
+-
+string
+-
+
